@@ -1,0 +1,24 @@
+10:01:28 From  Luthfan  to  Everyone:
+	kita start 09.05 ya ges
+10:02:08 From  Luthfan  to  Everyone:
+	minta tolong temen2 se-timnya diingetin buat join jg ya ges
+10:10:33 From  saidi Rifky  to  Everyone:
+	mas kemarin saya gak bisa combine as variant kira2 kenapa ya
+10:13:59 From  Jefi Wahyu Saputra  to  Everyone:
+	componentnya harus sama? atau beda gpp mas
+10:14:27 From  Jefi Wahyu Saputra  to  Everyone:
+	jenis jenisnya mas
+10:14:43 From  Jefi Wahyu Saputra  to  Everyone:
+	varian mas
+10:15:20 From  Jefi Wahyu Saputra  to  Everyone:
+	oke mas siap
+10:26:04 From  Soraya Aya  to  Everyone:
+	izin off cam koneksi tidak stabil
+11:05:34 From  Ifan Hani Triono  to  Everyone:
+	kak luthfan kalo mau edit component tapi udah telanjur dijadikan 1 component gimana,masih bisa ?
+11:09:09 From  Luthfan  to  Everyone:
+	coba dicopy aja mas, setelah itu di klik kanan detach instance
+11:09:34 From  Luthfan  to  Everyone:
+	jatohnya kaya buat ulang jdnya, tp cepet karena bisa dicopy dulu td
+12:41:10 From  Iqbal Ridho  to  Everyone:
+	makasi ka
